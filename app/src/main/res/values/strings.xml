@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">holaMundo</string>
+    <string name="button_text_HM">HOLA MUNDO</string>
+    <string name="text_box_name">Nombre</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="img_button_description">Pantalla anterior</string>
+</resources>
